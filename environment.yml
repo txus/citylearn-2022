@@ -1,0 +1,20 @@
+name: citylearn
+channels:
+  - pytorch
+dependencies:
+  - python==3.8.13
+  - pytorch
+  - pip
+  - pip:
+    - git+https://github.com/intelligent-environments-lab/CityLearn.git@v1.3.6
+    - stable-baselines3
+    - supersuit
+    - pettingzoo
+    - wandb
+    - click
+    - black
+    - sklearn
+    - nptyping
+    - moviepy
+    - imageio
+    - matplotlib

@@ -1,0 +1,10 @@
+{
+	"typeCheckingMode": "basic",
+	"executionEnvironments": [
+		{
+			"root": "."
+	  	}
+	],
+	"reportMissingImports": false,
+	"reportMissingTypeStubs": false
+}
